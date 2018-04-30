@@ -1,0 +1,6 @@
+Data process steps
+1. Download data
+2. Extracts only the measurements
+3. Get feature name
+4. Create data set with usable data
+5. Create the second data set.
